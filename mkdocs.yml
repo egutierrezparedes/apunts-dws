@@ -1,0 +1,7 @@
+site_name: Apunts Desenvolupament Web en el Servidor
+theme:
+  name: material
+  language: ca
+  palette: 
+    scheme: slate 
+    primary: indigo
